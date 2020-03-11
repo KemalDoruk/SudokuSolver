@@ -429,7 +429,7 @@ def clean_the_cube_for_rows(cell_list, cubes, number):
 
 
 
-def main():
+def __main__():
     sudoku = [[0,0,0,0,1,0,0,0,0],
               [0,2,0,0,0,0,0,9,5],
               [0,7,0,0,5,0,0,0,3],
@@ -463,4 +463,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    __main__()
