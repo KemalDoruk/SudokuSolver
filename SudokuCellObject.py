@@ -425,10 +425,6 @@ def clean_the_cube_for_rows(cell_list, cubes, number):
 # endregion
 
 
-
-
-
-
 def __main__():
     sudoku = [[0,0,0,0,1,0,0,0,0],
               [0,2,0,0,0,0,0,9,5],
